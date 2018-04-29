@@ -1,0 +1,12 @@
+{
+  "name": "smartbeings",
+  "version": "1.0.0",
+  "description": "MongoDB, Express, React, Redux, Node, express-session and datatable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+ 
+  "author": "Ajay",
+  "license": "ISC"
+}
